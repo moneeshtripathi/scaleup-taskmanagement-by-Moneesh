@@ -41,8 +41,7 @@ This is a Flutter-based Task Manager application that follows Clean Architecture
 ### Step 1: Clone the Repository
 Clone the repository to your local system:
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/moneeshtripathi/scaleup-taskmanagement-by-Moneesh.git
 ```
 
 ### Step 2: Install Dependencies
